@@ -1,4 +1,3 @@
-pip install streamlit pandas numpy scikit-learn factor-analyzer
 import streamlit as st
 import pandas as pd
 import numpy as np
